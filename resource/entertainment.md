@@ -3,6 +3,9 @@
 - [skymuz](https://skymuz.org/) 
   一个免费无套路的在线音乐网站
 
+- [YouTubemusic](https://music.youtube.com/) 
+  一个高质量的在线音乐网站
+
 - [YouTubeMP3](https://youtubemp3.la/en2/) 
   使用 YouTubeMP3 免费下载 YouTube Music
 以下是使用 YouTubeMP3 下载 YouTube 音乐的一些简单步骤。
