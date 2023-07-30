@@ -1,12 +1,10 @@
-* 娱乐
-  * [听音乐](/ProjectDocs/Docsify使用指南.md)
-  * [看电影](/ProjectDocs/Typora+Docsify快速入门.md)
-  * [找图片](/ProjectDocs/Docsify使用指南.md)
-  * [找书籍](/ProjectDocs/Docsify使用指南.md)
+* [娱乐](/resource/entertainment.md)
+
 * 学习
-  * [论坛](/ProjectDocs/Docsify部署教程.md)
-  * [工具箱](/ProjectDocs/Docsify使用指南.md)
-  * [资源库](/ProjectDocs/Docsify使用指南.md)
-* 工作
-  * [写简历](/ProjectDocs/Docsify使用指南.md)
+  * [论坛](/resource/forum.md)
+  * [工具箱](/resource/tool.md)
+  * [软件库](/resource/software.md)
+  * [学习教程](/resource/study.md)
+* [工作](/resource/work.md)
+  
 
