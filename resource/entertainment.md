@@ -3,7 +3,15 @@
 - [skymuz](https://skymuz.org/) 
   一个免费无套路的在线音乐网站
 
+- [YouTubeMP3](https://youtubemp3.la/en2/) 
+  使用 YouTubeMP3 免费下载 YouTube Music
+以下是使用 YouTubeMP3 下载 YouTube 音乐的一些简单步骤。
 
+步骤1： 找到您要下载的 YouTube 音乐并复制其 URL。 然后，将链接粘贴到搜索框中。 或者您可以直接输入有关您想要搜索的歌曲的信息。
+
+步骤2： 接下来，您将看到所需歌曲的列表和多个下载 MP3 按钮。
+
+步骤3： 选择您喜欢的歌曲，然后单击其下载按钮。 然后，您可以保存 YouTube 音乐。
 
 
 
