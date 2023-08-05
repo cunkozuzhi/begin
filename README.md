@@ -4,5 +4,7 @@
 - hexo clean && hexo g && hexo s
 - hexo clean && hexo g && hexo d
 
-
+```
+hexo clean && hexo g && hexo s
+```
 
