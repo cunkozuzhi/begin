@@ -1,13 +1,13 @@
 <!-- _coverpage.md -->
 
-# 我的Guide 
-
-> 💪日常问题的解决
-
- 简单、高效
+# 快速开始
 
 
-[开始使用](/README.md)
+
+ 简单、高效做些事情
+
+
+[Begin](/README.md)
 <!-- 背景图片 -->
 
 ![](images/2.jpg)
