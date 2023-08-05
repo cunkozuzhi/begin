@@ -1,10 +1,6 @@
-* [娱乐](/resource/entertainment.md)
-
-* 学习
-  * [论坛](/resource/forum.md)
-  * [工具箱](/resource/tool.md)
-  * [软件库](/resource/software.md)
-  * [学习教程](/resource/study.md)
-* [工作](/resource/work.md)
+* [Windows常用快捷键](/resource/Windows常用快捷键.md)
+* [Github搜索技巧](/resource/Github搜索技巧.md)
+* [ChatGPT使用技巧](/resource/ChatGPT使用技巧.md)
+* [有趣的方言收集](/resource/方言.md)
   
 
