@@ -12,7 +12,7 @@ OpenAI**（开放人工智能[[4\]](https://zh.wikipedia.org/zh-cn/OpenAI#cite_n
 
 而且你可以开多个**聊天窗口**，以设置多种角色。
 
-### 角色模板：
+## 角色模板：
 
 [越狱版](https://tracyting.com/chatgpt-%E4%BD%BF%E7%94%A8dan%E4%BB%A3%E7%A2%BC%E6%8C%87%E4%BB%A4%E3%80%8C%E8%B6%8A%E7%8D%84%E5%92%92%E8%AA%9E%E3%80%8Dchatgpt-%E6%9A%97%E9%BB%91%E7%89%88%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA/)
 
