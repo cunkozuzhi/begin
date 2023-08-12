@@ -37,6 +37,7 @@ Win+X组合键或右键点击Win10开始按钮即可打开系统快捷菜单，�
 打开设置    win + i
 
 打开控制面板：win + r   ,然后control
+Windows系统 用户 win + . 就可以输入 Emoji 了
 
 
 
